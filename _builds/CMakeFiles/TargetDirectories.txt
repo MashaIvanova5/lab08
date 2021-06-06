@@ -1,0 +1,8 @@
+/home/masha/MashaIvanova5/workspace/projects/lab07/_builds/CMakeFiles/install/strip.dir
+/home/masha/MashaIvanova5/workspace/projects/lab07/_builds/CMakeFiles/install.dir
+/home/masha/MashaIvanova5/workspace/projects/lab07/_builds/CMakeFiles/list_install_components.dir
+/home/masha/MashaIvanova5/workspace/projects/lab07/_builds/CMakeFiles/rebuild_cache.dir
+/home/masha/MashaIvanova5/workspace/projects/lab07/_builds/CMakeFiles/edit_cache.dir
+/home/masha/MashaIvanova5/workspace/projects/lab07/_builds/CMakeFiles/install/local.dir
+/home/masha/MashaIvanova5/workspace/projects/lab07/_builds/CMakeFiles/demo.dir
+/home/masha/MashaIvanova5/workspace/projects/lab07/_builds/CMakeFiles/print.dir
